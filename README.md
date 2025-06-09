@@ -1,1 +1,2 @@
 # Java--Based-Password-Generator
+: Developed a backend application in Java that generates secure, random passwords based on user-defined criteria such as length, character types (uppercase, lowercase, numbers, special characters), and complexity level. The project follows object-oriented principles with separate classes for logic handling and testing (Main.java, Password.java, Generator.java, etc.).
